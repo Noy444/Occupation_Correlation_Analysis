@@ -13,10 +13,10 @@ The goal of this project is to explore how different professional categories rel
 
 ## Repository Structure
 
-- `Occupation And Education.ipynb`: Correlation between occupation and education.
-- `Occupation And Anxiety.ipynb`: Correlation between occupation and anxiety.
-- `Occupation And Gender.ipynb`: Correlation between occupation and gender.
-- `Occupation And Sleep.ipynb`: Correlation between occupation and sleep quality.
+Each notebook has 3 main parts:
+1. **correlations plots**: Visual representations of the relationship between occupation and other factors.
+2. **ANOVA test**: A statistical test to determine whether there are significant differences between groups.
+3. **Tukey's test**: A post-hoc analysis to identify which specific groups differ from each other after the ANOVA test.
 
 ## Requirements
 
