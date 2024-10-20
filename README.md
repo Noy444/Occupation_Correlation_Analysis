@@ -1,6 +1,6 @@
 # Occupation Correlation Analysis
 
-This repository contains Jupyter notebooks for analyzing the correlations between professional categories and various other factors such as education, gender, sleep quality, and anxiety. This analysis is part of a research study conducted in the lab of Prof. Yaniv Assaf.
+This repository contains Jupyter notebooks for analyzing the correlations between professional categories and various other factors such as education, gender, sleep quality and anxiety.
 
 ## Project Overview
 
